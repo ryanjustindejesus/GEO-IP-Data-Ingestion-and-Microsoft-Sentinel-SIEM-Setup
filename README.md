@@ -40,8 +40,9 @@ This tutorial outlines the configuration of our Log Analytics Workspace and Micr
 - <b>55k Watchlist Items</b>
 
 ![image](https://github.com/user-attachments/assets/186d936a-097e-4b90-8a81-ddc4e4a7a377)
-![image](https://github.com/user-attachments/assets/4042ac65-bc1a-4afa-afaa-91514f3eb403)
 - <b>Navigate to Log Analytics Workspace and query _GetWatchlist("geoip")
+
+![image](https://github.com/user-attachments/assets/4042ac65-bc1a-4afa-afaa-91514f3eb403)
 - <b>Count results</b>
 
 
