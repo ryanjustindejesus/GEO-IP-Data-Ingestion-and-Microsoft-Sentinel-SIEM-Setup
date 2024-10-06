@@ -1,5 +1,6 @@
 <h1>Geo IP Data Ingestion and Log Analytics and Microsoft Sentinel (SIEM) Setup</h1>
-<b>This tutorial outlines the configuration of our Log Analytics Workspace and Microsoft Sentinel</b>
+
+- <b>This tutorial outlines the configuration of our Log Analytics Workspace and Microsoft Sentinel</b>
 
 <h2>Environments and Technologies Used</h2>
 
